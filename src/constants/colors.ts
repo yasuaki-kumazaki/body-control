@@ -1,0 +1,15 @@
+export const COLORS = {
+  bg: "#0a0a0a",
+  surface: "#131313",
+  surface2: "#1a1a1a",
+  border: "#242424",
+  textPrimary: "#e0e0d8",
+  textSecondary: "#aaaaaa",
+  textMuted: "#555555",
+  info: "#185FA5",
+  warning: "#BA7517",
+  danger: "#A32D2D",
+  skill: "#BA7517",
+  weight: "#555555",
+  core: "#A32D2D",
+};
